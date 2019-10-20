@@ -2,6 +2,8 @@
 /Resources
 /platform
 /i18n
+/node_modules
+/app/controllers/*.js
 build.log
 build
 npm-debug.log
