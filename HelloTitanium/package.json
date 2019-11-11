@@ -2,5 +2,13 @@
     "name": "hello-titanium",
     "version": "1.0.0",
     "main": "index.js",
-    "private": true
+    "private": true,
+    "devDependencies": {
+        "@types/jasmine": "^3.4.6",
+        "@types/titanium": "^8.0.1",
+        "jasmine": "^3.5.0",
+        "jasmine-ts-console-reporter": "^3.1.1",
+        "tiunit": "git+https://github.com/aca-mobile/ti-unit.git#1.0.0",
+        "typescript": "^3.6.4"
+    }
 }
